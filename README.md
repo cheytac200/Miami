@@ -5,4 +5,4 @@
   HTML5, SCSS, Flex-box, JavaScript, BEM
 
 # Description
-  [DEMO LINK](https://cheytac200.github.io/layout_miami/)
+  [DEMO LINK](https://cheytac200.github.io/Miami/)
